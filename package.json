@@ -5,6 +5,7 @@
     "express": "^4.18.2"
   },
   "name": "cherio-deploy",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
